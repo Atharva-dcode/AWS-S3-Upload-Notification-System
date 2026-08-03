@@ -83,3 +83,7 @@ This project demonstrates event-driven architecture, serverless computing, cloud
 ## 📧 Outcome
 
 Whenever a user uploads a file, the system automatically triggers AWS Lambda, processes the uploaded file's metadata, and sends an email notification to all subscribed users through Amazon SNS without any manual intervention.
+
+## Linkedin
+
+https://www.linkedin.com/feed/update/urn:li:activity:7490111405367533569/

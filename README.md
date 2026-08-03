@@ -4,3 +4,11 @@ An event-driven AWS project that automatically sends email notifications when fi
 <p align="center">
   <img src="images/SNS_Notification_img.png" alt="S3 Upload Notification System Architecture" width="1000">
 </p>
+
+
+
+<p align="center">
+  <img src="SNS_Notification_img.png" alt="AWS Architecture" width="900">
+  <br>
+  <em>Upload Notification System Architecture</em>
+</p>
